@@ -1,4 +1,4 @@
-# Write code below 💖
+
 
 import random 
 options = [
